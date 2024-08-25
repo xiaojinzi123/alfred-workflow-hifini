@@ -1,0 +1,1551 @@
+
+
+<!DOCTYPE html>
+
+
+	
+
+<html lang="zh-cn">
+<head>
+	
+		
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>周深《起风了》[FLAC/MP3-320K] - 音乐磁场</title> 
+    <meta name="keywords" content="起风了,周深,周深 起风了 下载" />
+    <meta name="description" content="周深 - 起风了,无损高品质MP3歌曲,网盘资源下载" />
+
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+    <meta http-equiv="Cache-Control" content="no-transform"/>
+    <meta http-equiv="Cache-Control" content="no-siteapp"/>
+	
+
+	
+			<link rel="stylesheet" href="./plugin/jan/css/bootstrap-v2.css?1.0">
+	
+	
+			<link rel="stylesheet" href="./plugin/jan/css/bootstrap-bbs-v2.css?1.0">
+	<link rel="stylesheet" href="plugin/huux_notice/view/css/huux-notice.css" name="huux_notice">
+	
+	<!-- TAG Style -->
+<link rel="stylesheet" href="plugin/git_tags/view/css/tag.css?1.0">
+<style>
+.haya-post-info-username.today .username {
+	color: var(--danger) !important;
+}
+.haya-post-info-username.today .date {
+	color: var(--danger) !important;
+}
+</style>
+<link rel="stylesheet" href="./plugin/sg_sign_vip/css/sign.css"><link rel="stylesheet" href="plugin/xn_paypal/view/css/jquery-labelauty.css">
+	
+</head>
+
+<body>
+	
+	
+	
+	
+	
+	<style>.nav-link.buy:hover{color: red !important;}</style>
+	<header class="navbar navbar-expand-lg navbar-dark bg-dark" id="header">
+		<div class="container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav" aria-controls="navbar_collapse" aria-expanded="false" aria-label="展开菜单">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			
+			
+			
+			<a class="navbar-brand text-truncate" href="forum-1.htm">
+				<img src="view/img/logo.png" class="logo-2">
+									<span class="hidden-lg">华语</span>
+							</a>
+			
+			
+			
+							<a class="navbar-brand hidden-lg" href="user-login.htm" aria-label="登录"> <i class="icon-user icon"></i></a>
+						
+			
+			
+			<div class="collapse navbar-collapse" id="nav">
+				<!-- 左侧：版块 -->
+				<ul class="navbar-nav mr-auto">
+					
+					<li class="nav-item home" fid="0" data-active="fid-0"><a class="nav-link" href="."><i class="icon-home d-md-none"></i> 首页</a></li>
+					
+										
+										
+					<li class="nav-item " fid="1" data-active="fid-1">
+						<a class="nav-link" href="forum-1.htm"><i class="icon-circle-o d-md-none"></i> 华语</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="15" data-active="fid-15">
+						<a class="nav-link" href="forum-15.htm"><i class="icon-circle-o d-md-none"></i> 日韩</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="10" data-active="fid-10">
+						<a class="nav-link" href="forum-10.htm"><i class="icon-circle-o d-md-none"></i> 欧美</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="11" data-active="fid-11">
+						<a class="nav-link" href="forum-11.htm"><i class="icon-circle-o d-md-none"></i> Remix</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="12" data-active="fid-12">
+						<a class="nav-link" href="forum-12.htm"><i class="icon-circle-o d-md-none"></i> 纯音乐</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="13" data-active="fid-13">
+						<a class="nav-link" href="forum-13.htm"><i class="icon-circle-o d-md-none"></i> 异次元</a>
+					</li>
+					
+										
+										
+					<li class="nav-item zunshop" fid="17" data-active="fid-17">
+						<a class="nav-link" href="forum-17.htm"><i class="icon-circle-o d-md-none"></i> 特供</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="16" data-active="fid-16">
+						<a class="nav-link" href="forum-16.htm"><i class="icon-circle-o d-md-none"></i> 茶馆</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="18" data-active="fid-18">
+						<a class="nav-link" href="forum-18.htm"><i class="icon-circle-o d-md-none"></i> 百科</a>
+					</li>
+					
+										
+										
+					<li class="nav-item " fid="9" data-active="fid-9">
+						<a class="nav-link" href="forum-9.htm"><i class="icon-circle-o d-md-none"></i> 站务</a>
+					</li>
+					
+														</ul>
+				<!-- 右侧：用户 -->
+				<ul class="navbar-nav">
+					<li class="nav-item hidden-lg">
+	<a class="nav-link" href="search.htm"><i class="icon-search"></i> 搜索</a>
+</li><li class="nav-item hidden-lg"><a class="nav-link" href="#" id="sg_sign_mobile" ><i class="icon-gift"></i> 签到</a></li>
+									<li class="nav-item"><a class="nav-link" href="user-login.htm"><i class="icon-user"></i> 登录</a></li>
+					<!--<li class="nav-item"><a class="nav-link" href="user-create.htm">注册</a></li>-->
+									
+				</ul>
+			</div>
+		</div>
+	</header>
+	
+	<main id="body">
+		<div class="container">
+	
+		
+
+
+
+
+<style>.col-lg-9.main .mb-3, .my-3 {margin-bottom: 0.5rem !important;} .card.card-postlist {margin-bottom: 1.3rem;}.bilibili{position:relative;width:100%;height:0;padding-bottom:75%}.bilibili iframe{position:absolute;width:100%;height:100%;left:0;top:0}</style>
+<div class="row u_2006">
+	<div class="col-lg-9 main">
+	    
+		
+				<ol class="breadcrumb d-none d-md-flex">
+			<li class="breadcrumb-item"><a href="./" aria-label="首页"><i class="icon-home"></i></a></li>
+			<li class="breadcrumb-item"><a href="forum-1.htm">华语</a></li>
+			<li class="breadcrumb-item active"><a href="thread-63375.htm" title="首页返回主题第一页">周深《起风了》[FLAC/MP3-320K]</a></li>
+			
+		</ol>
+						
+		<div class="jan card card-thread">
+			<div class="card-body">
+				<div class="media">
+					<a href="user-2006.htm" tabindex="-1">
+						<img class="avatar-3 mr-3" src="upload/avatar/000/2006.png?1554012822">
+					</a>
+					<div class="media-body">
+						
+						<h4 class="break-all">
+														周深《起风了》[FLAC/MP3-320K]													</h4>
+						
+						<div class="d-flex justify-content-between small">
+							<div>
+																<span class="username">
+									<a href="user-2006.htm" class="text-muted font-weight-bold">隔壁老王</a>
+								</span>
+								<span class="date text-grey ml-2"><i class="jan-icon-clock-1"></i> 2020-09-03 11:51:54</span>
+								<span class="text-grey ml-2"><i class="jan-icon-eye-4"></i> 119091</span>
+								
+							</div>
+							<div>
+																								
+																							</div>
+						</div>
+					</div>
+				</div>
+				<hr class="jan-hr-1"/>
+				<div class="message break-all" isfirst="1">
+								  
+
+ 
+  						
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+  	
+	
+	
+
+
+
+	
+	
+  
+
+
+
+
+
+
+<script src="view/js/dm.js"> </script>
+<div id="player4" class="aplayer"></div>
+ <script src="plugin/skydrive/js/player.min.js"></script>
+ <script>
+var ap4 = new APlayer({
+    element: document.getElementById('player4'),
+    narrow: false,
+    autoplay: false,
+	preload: 'none',
+    showlrc: false,
+    mutex: true,
+    theme: '#ad7a86',
+    music: [
+		{
+			            title: '起风了',
+            author:'周深',
+            url: 'get_music.php?key=oX5m3VWTG9gfFwwwHiFiNicomMBWrK7PxpqNF0DZrvxPBDaxxexLw9zsixhhCqBllTSZaXyvUg5&p='+ generateParam('mIOuo8mowvaV3bF2cLl2ISnxxHiFiNixxbrpU2bTa7eHqFvxpcxxHiFiNixxjHijsUiDIA7Rn9EsaDk5Art3iDlC2xxHiFiNixxVuAuw84LrZCGzg'),
+            pic: 'https://p1.music.126.net/BNg6cYJFIqER-lAz-dCn5g==/109951165287435434.jpg?param=130y130'
+        },
+    ]
+});
+ </script>
+					<p>
+    
+</p>
+<h5>
+    歌词
+</h5>
+<p></p>
+<p>
+    这一路上走走停停
+</p>
+<p></p>
+<p>
+    顺着少年漂流的痕迹
+</p>
+<p></p>
+<p>
+    迈出车站的前一刻
+</p>
+<p></p>
+<p>
+    竟有些犹豫
+</p>
+<p></p>
+<p>
+    不禁笑这近乡情怯
+</p>
+<p></p>
+<p>
+    仍无可避免
+</p>
+<p></p>
+<p>
+    而长野的天
+</p>
+<p></p>
+<p>
+    依旧那么暖
+</p>
+<p></p>
+<p>
+    风吹起了从前
+</p>
+<p></p>
+<p>
+    从前初识这世间
+</p>
+<p></p>
+<p>
+    万般流连
+</p>
+<p></p>
+<p>
+    看着天边似在眼前
+</p>
+<p></p>
+<p>
+    也甘愿赴汤蹈火去走它一遍
+</p>
+<p></p>
+<p>
+    如今走过这世间
+</p>
+<p></p>
+<p>
+    万般流连
+</p>
+<p></p>
+<p>
+    翻过岁月不同侧脸
+</p>
+<p></p>
+<p>
+    措不及防闯入你的笑颜
+</p>
+<p></p>
+<p>
+    我曾难自拔于世界之大
+</p>
+<p></p>
+<p>
+    也沉溺于其中梦话
+</p>
+<p></p>
+<p>
+    不得真假 不做挣扎 不惧笑话
+</p>
+<p></p>
+<p>
+    我曾将青春翻涌成她
+</p>
+<p></p>
+<p>
+    也曾指尖弹出盛夏
+</p>
+<p></p>
+<p>
+    心之所动 且就随缘去吧
+</p>
+<p></p>
+<p>
+    逆着光行走 任风吹雨打
+</p>
+<p></p>
+<p>
+    短短的路走走停停
+</p>
+<p></p>
+<p>
+    也有了几分的距离
+</p>
+<p></p>
+<p>
+    不知抚摸的是故事 还是段心情
+</p>
+<p></p>
+<p>
+    也许期待的不过是 与时间为敌
+</p>
+<p></p>
+<p>
+    再次看到你
+</p>
+<p></p>
+<p>
+    微凉晨光里
+</p>
+<p></p>
+<p>
+    笑得很甜蜜
+</p>
+<p></p>
+<p>
+    从前初识这世间
+</p>
+<p></p>
+<p>
+    万般流连
+</p>
+<p></p>
+<p>
+    看着天边似在眼前
+</p>
+<p></p>
+<p>
+    也甘愿赴汤蹈火去走它一遍
+</p>
+<p></p>
+<p>
+    如今走过这世间
+</p>
+<p></p>
+<p>
+    万般流连
+</p>
+<p></p>
+<p>
+    翻过岁月不同侧脸
+</p>
+<p></p>
+<p>
+    措不及防闯入你的笑颜
+</p>
+<p></p>
+<p>
+    我曾难自拔于世界之大
+</p>
+<p></p>
+<p>
+    也沉溺于其中梦话
+</p>
+<p></p>
+<p>
+    不得真假 不做挣扎 不惧笑话
+</p>
+<p></p>
+<p>
+    我曾将青春翻涌成她
+</p>
+<p></p>
+<p>
+    也曾指尖弹出盛夏
+</p>
+<p></p>
+<p>
+    心之所动 且就随缘去吧
+</p>
+<p></p>
+<p>
+    晚风吹起你鬓间的白发
+</p>
+<p></p>
+<p>
+    抚平回忆留下的疤
+</p>
+<p></p>
+<p>
+    你的眼中 明暗交杂 一笑生花
+</p>
+<p></p>
+<p>
+    暮色遮住你蹒跚的步伐
+</p>
+<p></p>
+<p>
+    走进床头藏起的画
+</p>
+<p></p>
+<p>
+    画中的你 低着头说话
+</p>
+<p></p>
+<p>
+    我仍感叹于世界之大
+</p>
+<p></p>
+<p>
+    也沉醉于儿时情话
+</p>
+<p></p>
+<p>
+    不剩真假 不做挣扎 无谓笑话
+</p>
+<p></p>
+<p>
+    我终将青春还给了她
+</p>
+<p></p>
+<p>
+    连同指尖弹出的盛夏
+</p>
+<p></p>
+<p>
+    心之所动 就随风去了
+</p>
+<p></p>
+<p>
+    以爱之名 你还愿意吗
+</p>
+<h5>下载</h5><p><a href="https://pan.baidu.com/s/1ls31NKef3Om_rJdPhdyNRA" target="_blank">https://pan.baidu.com/s/1ls31NKef3Om_rJdPhdyNRA</a></p><h5>提取码</h5><p><div class="alert alert-warning" role="alert" style="border: 1px #f1c84c dashed;"><i class="icon icon-lock"></i> 本帖含有隐藏内容，请您<a href="/user-login.htm"  title="快速跳转"> 回复 </a>后查看</div></p>
+<h5>
+    备份
+</h5>
+<p>
+    <div class="alert alert-warning" role="alert" style="border: 1px #f1c84c dashed;"><i class="icon icon-lock"></i> 本帖含有隐藏内容，请您<a href="/user-login.htm"  title="快速跳转"> 回复 </a>后查看</div>
+</p>					
+					
+										
+					<!-- TAG -->
+<ul id="tag" data-tid="63375" >
+		<li data-tag="350"><a href='tag-350.htm'><i class="icon-tag"></i>周深</a></li>
+	</ul>
+
+
+					
+								</div>
+
+				
+				<div class="plugin d-flex justify-content-center mt-3">
+							
+		<div class="haya-post-like px-2">
+			<span class="btn-group" role="group">
+									<button class="btn btn-outline-secondary js-haya-post-like-thread-tip" data-pid="2325124" title="点赞本帖">
+						<i class="icon icon-thumbs-o-up" aria-label="点赞本帖"></i>
+						<span class="haya-post-like-thread-btn">点赞</span>
+					</button>
+				
+				<button class="btn btn-outline-secondary" title="点赞数量" data-tid="63375">
+					<span class="haya-post-like-thread-user-count">118</span>
+				</button>
+			</span>
+		</div>
+	
+
+<style>
+.haya-favoriter {
+	position: relative;
+}
+.haya-favorite-show-users {
+	position: absolute;
+	top: 5px;
+	z-index: 100;
+	width: 100%;
+}
+.haya-favorite-show-users .haya-favorite-users {
+	max-height: 250px;
+	overflow-y: auto;
+}
+</style>
+
+<div class="haya-favoriter px-2">
+	<span class="btn-group haya-favoriter-info" role="group">
+					<button class="btn btn-outline-secondary js-haya-favorite-tip" data-tid="63375" title="收藏本帖">
+				<i class="icon icon-star-o" aria-label="收藏本帖"></i>
+				<span class="haya-favorite-btn">收藏</span>
+			</button>
+		
+		<button class="btn btn-outline-secondary js-haya-favorite-show-users" data-tid="63375" title="点击查看收藏详情">
+			<span class="haya-favorite-user-count">233</span>
+		</button>
+	</span>
+</div>
+
+<button class="btn btn-outline-secondary" data-modal-title="打赏" data-modal-size="md" data-modal-url="thread-reward-63375.htm" title="获得打赏金币">
+    <i class="icon icon-dollar" aria-label="打赏"></i>&nbsp;<span>5681</span>
+</button>
+				</div>
+				<div class="haya-favoriter">
+	<div class="text-center d-none haya-favorite-show-users">
+		<div class="text-left m-0 p-0 col-md-6 mx-auto">
+			<div class="modal-content">
+				<div class="modal-header small">
+					<b>收藏的用户（<span class="haya-favorite-user-count">233</span>）</b>
+					
+					<span class="close small p-3 haya-favorite-close js-haya-favorite-show-users" data-dismiss="dodal">X</span>
+				</div>
+			
+				<div class="modal-body p-3">
+					<div class="text-muted haya-favorite-users small break-all">
+						<div class="text-muted">正在加载信息~</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+</div>
+
+			</div>
+		</div>
+		
+			 
+ 
+
+ 	
+		
+	
+	
+
+   <div class="jan-re card card-body">
+				<div class="card-title">
+				   <b>相关推荐</b>
+				 </div>		
+			   
+			 
+			 
+						
+			   			   
+				<div class="relate_post">
+				      		
+				       <i class="icon-thumb-tack"></i>&nbsp;<a href="thread-851.htm">周深《缘起 (前世今生版)》[FLAC/MP3-320K]</a>	
+                       <span class="hidden-sm" style="float:right;">2019-01-12</span>					   
+				</div>
+				  
+								   <hr class="jan-hr-2">
+			   			   
+		 			
+			   			   
+				<div class="relate_post">
+				      		
+				       <i class="icon-thumb-tack"></i>&nbsp;<a href="thread-11297.htm">周深《好的 晚安 (Live)》这！就是原创 第四期 [FLAC/MP3-320K]</a>	
+                       <span class="hidden-sm" style="float:right;">2019-04-02</span>					   
+				</div>
+				  
+								   <hr class="jan-hr-2">
+			   			   
+		 			
+			   			   
+				<div class="relate_post">
+				      		
+				       <i class="icon-thumb-tack"></i>&nbsp;<a href="thread-11984.htm">周深《蜕》[FLAC/MP3-320K]</a>	
+                       <span class="hidden-sm" style="float:right;">2019-04-12</span>					   
+				</div>
+				  
+								   <hr class="jan-hr-2">
+			   			   
+		 			
+			   			   
+				<div class="relate_post">
+				      		
+				       <i class="icon-thumb-tack"></i>&nbsp;<a href="thread-13945.htm">周深/毛不易《梅香如故》[FLAC/MP3-320K]</a>	
+                       <span class="hidden-sm" style="float:right;">2019-05-10</span>					   
+				</div>
+				  
+								   <hr class="jan-hr-2">
+			   			   
+		 			
+			   			   
+				<div class="relate_post">
+				      		
+				       <i class="icon-thumb-tack"></i>&nbsp;<a href="thread-14111.htm">唐汉霄/周深《末日飞船 (Live)》这！就是原创 第10期 [FLAC/MP3-320K]</a>	
+                       <span class="hidden-sm" style="float:right;">2019-05-13</span>					   
+				</div>
+				  
+							   
+		 	  
+      
+   </div>
+   
+     
+  
+		<div class="card card-postlist">
+			<div class="card-body">
+				<div class="card-title">
+					<div class="d-flex justify-content-between">
+						<div>
+							<b>最新回复</b> (<span class="posts">12746</span>)
+						</div>
+						
+						<div>
+								
+	<div class="postlist-sort d-inline-block haya-post-info-post-orderby" id="postlist" data-tid="63375">
+				
+			
+			<span class="haya-post-info ml-2">
+															<a title="点击更改排序" tabindex="1" class="text-grey small haya-post-sort-btn" href="thread-63375.htm?sort=desc#postlist">
+							<i class="icon-sort-numeric-asc" class="asc"></i>
+						</a>
+												</span>
+			</div>
+
+						</div>
+					</div>
+				</div>
+				<ul class="list-unstyled postlist">
+														
+									<li class="media post" data-pid="2325215" data-uid="60488">
+					
+										
+						<a href="user-60488.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-60488.htm" class="text-muted font-weight-bold">龍呵呵</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 12:03:54</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325215" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">2</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																感謝分享								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325354" data-uid="398673">
+					
+										
+						<a href="user-398673.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-398673.htm" class="text-muted font-weight-bold">liao92</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 12:21:42</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325354" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">3</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																謝謝分享								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325379" data-uid="573157">
+					
+										
+						<a href="user-573157.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-573157.htm" class="text-muted font-weight-bold">XXX_44</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 12:24:21</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325379" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">4</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																謝謝分享								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325660" data-uid="465606">
+					
+										
+						<a href="user-465606.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-465606.htm" class="text-muted font-weight-bold">njr</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 12:54:40</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325660" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">5</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																谢谢								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325687" data-uid="90576">
+					
+										
+						<a href="user-90576.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-90576.htm" class="text-muted font-weight-bold">哎哟不错哟</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 12:57:35</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325687" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">6</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																谢谢								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325701" data-uid="194512">
+					
+										
+						<a href="user-194512.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-194512.htm" class="text-muted font-weight-bold">顾家明</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 12:59:23</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325701" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">7</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																33								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325714" data-uid="275527">
+					
+										
+						<a href="user-275527.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-275527.htm" class="text-muted font-weight-bold">猴骑虎</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 13:00:19</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325714" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">8</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																谢谢								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325813" data-uid="310784">
+					
+										
+						<a href="user-310784.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-310784.htm" class="text-muted font-weight-bold">riogu</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 13:12:52</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325813" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">9</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																66666								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+									<li class="media post" data-pid="2325922" data-uid="326065">
+					
+										
+						<a href="user-326065.htm" class="mr-3" tabindex="-1">
+							<img class="avatar-3" src="view/img/avatar.png">
+						</a>
+						
+						<div class="media-body">
+							<div class="d-flex justify-content-between small text-muted">
+								<div>
+																		<span class="username ">
+										<a href="user-326065.htm" class="text-muted font-weight-bold">1abc</a>
+									</span>
+																		
+									
+									<span class="date text-grey ml-2">2020-09-03 13:25:13</span>
+																	</div>
+								<div class="text-right text-grey">
+																											<a href="javascript:void(0)" data-tid="63375" data-pid="2325922" class="text-grey post_reply mr-3"><i class="icon-reply" title="引用"></i> <span class="d-none">引用</span></a>
+																		
+									
+									
+																		
+								
+									
+																		
+									
+									
+																		<span class="floor-parent">
+										#<span class="floor mr-0">10</span>
+									</span>
+																		
+								</div>
+							</div>
+							<div class="message mt-1 break-all">
+							
+								
+																
+								
+																谢谢								
+								
+								
+																								
+							</div>
+						</div>
+					</li>
+								
+									
+					
+					
+					
+												
+				</ul>
+			</div>
+		</div>
+
+			<div  class="card text-center"><p></p><p class="text-center">
+		您可以在 <a href="user-login.htm"><b>登录</b></a> or <a href="user-create.htm"><b>注册</b></a> 后，对此帖发表评论！</p>
+	</div>
+
+		<div class="d-none threadlist"><input type="checkbox" name="modtid" value="63375" checked /></div>
+				
+		
+				   				
+		
+	
+
+		
+		
+		<a role="button" class="btn btn-secondary btn-block xn-back col-lg-6 mx-auto mb-3" href="javascript:history.back();">返回</a>
+	
+	</div>
+	<div class="col-lg-3 d-none d-lg-block aside">
+	
+		<a role="button" class="btn btn-primary btn-block mb-3" href="thread-create-1.htm">发新帖</a>
+		
+		<div class="card card-user-info">
+			<div class="m-3 text-center">
+				<a href="user-2006.htm" tabindex="-1">
+					<img class="avatar-5" src="upload/avatar/000/2006.png?1554012822">
+				</a>
+				<h5><a href="user-2006.htm">隔壁老王</a></h5>
+				
+			</div>
+			<div class="card-footer p-2">
+				<table class="w-100 small">
+					<tr align="center">
+						<td>
+							<span class="text-muted">主题数</span><br>
+							<b>52288</b>
+						</td>
+						
+						<td>
+							<span class="text-muted">帖子数</span><br>
+							<b>52644</b>
+						</td>
+						
+						<td>
+							<span class="text-muted">注册排名</span><br>
+							<b>2006</b>
+						</td>
+						
+					</tr>
+				</table>
+			</div>
+		</div>
+		
+		
+
+
+<div class="form-group">
+ <form action="search.htm" id="search_form">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="关键词" name="keyword">
+        <div class="input-group-append">
+          <button class="btn btn-primary" type="submit">搜索</button>
+        </div>
+      </div>
+  </form>
+</div>
+				<div class="card">
+		  <div class="card-header">作者最近主题</div>
+			<div class="card-body user-recent">
+				<ul class="small break-all">
+						
+					<li class="line-height-2">
+						<a title="阿YueYue《壁上观》[FLAC/MP3-320K]" href="thread-418838.htm">
+							阿YueYue《壁上观》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="浮生梦《赋相思》[FLAC/MP3-320K]" href="thread-418837.htm">
+							浮生梦《赋相思》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="anaïs《ANAÏS》[FLAC/MP3-320K]" href="thread-418835.htm">
+							anaïs《ANAÏS》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="李莎旻子《知情人》[FLAC/MP3-320K]" href="thread-418833.htm">
+							李莎旻子《知情人》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="金润吉《为你我受冷风吹》[FLAC/MP3-320K]" href="thread-418830.htm">
+							金润吉《为你我受冷风吹》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="时雨羽衣《うい麦畑でつかまえて》[FLAC/MP3-320K]" href="thread-418828.htm">
+							时雨羽衣《うい麦畑でつかまえて》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="姜雨涵《心若向阳总少年》[FLAC/MP3-320K]" href="thread-418823.htm">
+							姜雨涵《心若向阳总少年》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="白小白《爱获新生》[FLAC/MP3-320K]" href="thread-418822.htm">
+							白小白《爱获新生》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="赖仔Morris《千年》[FLAC/MP3-320K]" href="thread-418821.htm">
+							赖仔Morris《千年》[FLAC/MP3-320K]						</a>
+					</li>
+						
+					<li class="line-height-2">
+						<a title="欧圈圈《不落幕的夏天》[FLAC/MP3-320K]" href="thread-418819.htm">
+							欧圈圈《不落幕的夏天》[FLAC/MP3-320K]						</a>
+					</li>
+									</ul>
+			</div>
+		</div>
+		
+	</div>
+</div>
+
+
+<script>
+var links = document.querySelectorAll('div.message.break-all[isfirst="1"] a[target="_blank"]');
+for (var i = 0; i < links.length; i++) {
+  if (!links[i].getAttribute('href').startsWith('http')) {
+    var text = links[i].innerText.trim();
+    var url = text.replace(/.*?:\/\//, '');
+    if (url) {
+      links[i].setAttribute('href', 'https://' + url);
+    }
+  }
+}
+</script>
+
+  
+
+				
+			
+		
+				
+		</div>
+	</main>
+	
+	
+	
+	<footer class="text-muted small bg-dark py-4 mt-3" id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col">2018 ☯ <a href="./" target="_blank" class="text-muted" title="[官网] HiFiNi-音乐磁场"><b>HiFiNi.COM</b></a>
+				
+			</div>
+			<div class="col text-right">
+				
+				PROCESSED: <b>0.024</b>
+				
+			</div>
+		</div>
+	</div>
+</footer>
+<style>@media (max-width:576px){.col-lg-3.msign{padding:0 0.5rem 0 0.5rem !important;}}@media (min-width:768px){.container{padding-left:0;}}@media (min-width:576px){.container{padding-left:0;}.col-lg-3.msign{padding-left:1rem !important;}}@media (min-width:992px){.col-lg-3.msign{padding-left:0rem !important;}}@media (max-width:576px){#body > .container > .row > div{padding-bottom:0 !important;}}</style>
+	
+	
+	
+	<!--[if ltg IE 9]>
+	<script>window.location = 'browser.htm';</script>
+	<![endif]-->
+	
+	
+	
+			<script src="lang/zh-cn/bbs.js?1.0"></script>
+	<script src="view/js/jquery-3.1.0.js?1.0"></script>
+	<script src="view/js/popper.js?1.0"></script>
+	<script src="view/js/bootstrap.js?1.0"></script>
+	<script src="view/js/xiuno.js?1.0"></script>
+	<script src="view/js/bootstrap-plugin.js?1.0"></script>
+	<script src="view/js/async.js?1.0"></script>
+	<script src="view/js/form.js?1.0"></script>
+	<script>
+	var debug = DEBUG = 0;
+	var url_rewrite_on = 1;
+	var forumarr = {
+    "1": "华语",
+    "15": "日韩",
+    "10": "欧美",
+    "11": "Remix",
+    "12": "纯音乐",
+    "13": "异次元",
+    "17": "特供",
+    "16": "茶馆",
+    "18": "百科",
+    "9": "站务"
+};
+	var fid = 1;
+	var uid = 0;
+	var gid = 0;
+	xn.options.water_image_url = 'view/img/water-small.png';	// 水印图片 / watermark image
+	</script>
+	<script src="view/js/bbs.js?1.0"></script>
+	<script>
+// 版主管理：高亮
+$('.mod-button button.sg_highlight').on('click', function() {
+	var modtid = $('input[name="modtid"]').checked();
+	if(modtid.length == 0) return $.alert(lang.please_choose_thread);
+	var radios = xn.form_radio('sg_highlight', {"0": "取消高亮", "1": "<span style=\"color:#ff0000;\">高亮一</span>","2": "<span style=\"color:#0e990b;\">高亮二</span>", "3": "<span style=\"color:#007ef7;\">高亮三</span>", "4": "<span style=\"color:#f900ff;\">高亮四</span>", "5": "<span style=\"color:#fff000;\">高亮五</span>"});
+	$.confirm("设置主题为高亮", function() {
+		var tids = xn.implode('_', modtid);
+		var sg_highlight = $('input[name="sg_highlight"]').checked();
+		var postdata = {sg_highlight: sg_highlight};
+		$.xpost(xn.url('mod-sg_highlight-'+tids), postdata, function(code, message) {
+			if(code != 0) return $.alert(message);
+			$.alert(message).delay(1000).location('');
+		});
+	}, {'body': '<p>选择高亮：'+radios+'</p>'});
+})
+</script>
+
+<script src="plugin/tt_credits/view/js/tt_credits.js?1.0"></script>
+</body>
+
+</html>
+
+<link rel="stylesheet" href="plugin/hifini_footer/css/scroll.css">
+
+<div id="scroll_to_list" style="position: fixed; _position: absolute; bottom: 320px; right: 10px; width: 70px; height: 70px;">
+        
+			<a href="search.htm" class="mui-rightlist"  title="搜索"><span><i class="icon-search"></i></span></a>
+	    <a id="scroll_to_top" href="javascript:void(0);"  class="mui-rightlist"  title="返回顶部"><i class="icon-angle-double-up"></i></a>
+
+
+
+
+</div>
+
+<script>
+
+
+
+$('#sg_sign_mobile,#sg_sign,#xn_sign').click(function () {
+
+			 window.location.href = xn.url('sg_sign');
+
+});
+
+
+
+var jscroll_to_top = $('#scroll_to_top');
+$(window).scroll(function() {
+	if ($(window).scrollTop() >= 500) {
+	   jscroll_to_top.fadeIn(300);
+	} else {
+		jscroll_to_top.fadeOut(300);
+	}
+});
+
+jscroll_to_top.on('click', function() {
+	$('html,body').animate({scrollTop: '0px' }, 100);
+});
+</script>
+
+
+
+
+
+ 
+<script>
+var jform = $('#quick_reply_form');
+var jsubmit = $('#submit');
+jform.on('submit', function() {
+	jform.reset();
+	jsubmit.button('loading');
+	var postdata = jform.serialize();
+	$.xpost(jform.attr('action'), postdata, function(code, message) {
+		if(code == 0) {
+			var s = '<ul>'+message+'</ul>';
+			var jli = $(s).find('li');
+			jli.insertBefore($('.postlist > .post').last());
+			jsubmit.button('reset');
+			$('#message').val('');
+						location.reload();
+			 			// 楼层 +1
+			var jfloor = $('#newfloor');
+			jfloor.html(xn.intval(jfloor.html()) + 1);
+			
+			// 回复数 +1
+			var jposts = $('.posts');
+			jposts.html(xn.intval(jposts.html()) + 1);
+			
+		} else if(code < 0) {
+			$.alert(message);
+			jsubmit.button('reset');
+		} else {
+			jform.find('[name="'+code+'"]').alert(message).focus();
+			jsubmit.button('reset');
+		}
+	});
+	return false;
+});
+
+</script>
+
+
+ 	
+ 
+
+
+<script>
+// 缩放图片，适应屏幕大小。
+function resize_image() {
+	var jmessagelist = $('div.message');
+	var first_width = jmessagelist.width(); // 815 : 746; //  734 746
+	jmessagelist.each(function() {
+		var jdiv = $(this);
+		var maxwidth = jdiv.attr('isfirst') ? first_width : jdiv.width(); //  734 746
+		var jmessage_width = Math.min(jdiv.width(), maxwidth);
+		jdiv.find('img, embed, iframe, video').each(function() {
+			var jimg = $(this);
+			var img_width = this.org_width;
+			var img_height = this.org_height;
+			if(!img_width) {
+				var img_width = jimg.attr('width');
+				var img_height = jimg.attr('height');
+				this.org_width = img_width;
+				this.org_height = img_height;
+			}
+			//var percent = xn.min(100, xn.ceil((img_width / jmessage_width) * 100));
+			if(img_width > jmessage_width) {
+				if(this.tagName == 'IMG') {
+					jimg.width(jmessage_width);
+					jimg.css('height', 'auto');
+					jimg.css('cursor', 'pointer');
+					jimg.on('click', function() {
+						//window.open(jimg.attr('src'));
+					});
+				} else {
+					jimg.width(jmessage_width);
+					var height = (img_height / img_width) * jimg.width();
+					jimg.height(height);
+				}
+			}
+		});
+	});
+}
+
+// 对于超宽的表格，加上响应式
+function resize_table() {
+	$('div.message').each(function() {
+		var jdiv = $(this);
+		jdiv.find('table').addClass('table').wrap('<div class="table-responsive"></div>'); 
+	});
+}
+
+$(function() {
+	resize_image();
+	resize_table();
+	$(window).on('resize', resize_image);
+});
+
+// 输入框自动伸缩
+
+
+var jmessage = $('#message');
+jmessage.on('focus', function() {if(jmessage.t) { clearTimeout(jmessage.t); jmessage.t = null; } jmessage.css('height', '8rem'); });
+jmessage.on('blur', function() {jmessage.t = setTimeout(function() { jmessage.css('height', '2.5rem');}, 1000); });
+
+$('li[data-active="fid-1"]').addClass('active');
+
+</script>
+
+
+	
+
+<script>var v_sign = "pys33gDNENtBUKRGHMigJg";$.xpost('_sign.htm', {'sign':  v_sign}, function(code, message) {});</script>
+
+
+<script>
+jsearch_form = $('#search_form');
+jsearch_form.on('submit', function() {
+	var keyword = jsearch_form.find('input[name="keyword"]').val();
+	var url = xn.url('search-'+xn.urlencode(keyword));
+	window.location = url;
+	return false;
+});
+</script><script>
+$(document).on('click', '.js-haya-favorite-show-users', function() {
+	var show_users = $(".haya-favorite-show-users");
+	var tid = $(this).attr("data-tid");
+	if (show_users.hasClass("d-none")) {
+		show_users.fadeIn().removeClass("d-none");
+		if (!show_users.hasClass("favorite-users")) {
+			show_users.addClass("favorite-users");
+			
+			var url = 'thread-favorite.htm';
+			$.xpost(url, {'tid': tid}, function(code, msg) {
+				if (code == 1) {
+					show_users.find(".haya-favorite-users").html(msg);
+				} else {
+					show_users.removeClass("favorite-users");
+					haya_favorite_msg = msg || "加载信息失败~";
+					show_users.find(".haya-favorite-users").html(haya_favorite_msg);
+				}
+			});
+		}
+	} else {
+		show_users.fadeOut().addClass("d-none");
+	}
+});
+
+$(document).on('click', '.js-haya-favorite-tip', function() {
+	$.confirm('帖子收藏提示', function() {
+		window.location = "user-login.htm";
+	}, {'body': '登录后才可以收藏帖子！点击 <b class="text-primary">确定</b> 登录。'});		
+});
+</script>
+<script>
+		$(document).on('click', '.js-haya-post-like-thread-tip', function() {
+		$.confirm('点赞提示', function() {
+			window.location = "user-login.htm";
+		}, {'body': '登录后才可以点赞本帖！点击 <b class="text-primary">确定</b> 登录。'});		
+	});
+	
+</script>
+<script>
+        $(function(){
+                // 消息：地址栏传参实现内页跳转[分页无效]
+                var notice_postid = window.location.hash.split("#")[1];
+                var notice_domid = $('.postlist .post[data-pid="'+notice_postid+'"]');
+                if(notice_domid.length > 0){
+                    notice_domid.addClass('current');//
+                    var scroll_offset = notice_domid.offset().top;
+                    $("html, body").animate({scrollTop:scroll_offset}, {duration:500, easing:"swing"});
+                    notice_domid.on('click', function(){
+                        $(this).removeClass('current');
+                    })
+                }
+        }); 
+</script><script>
+// 语法高亮
+if($('div.message pre').length > 0) {
+	$.require_css('plugin/xn_syntax_hightlighter/syntax_hightlighter/syntax.css');
+	$.require('plugin/xn_syntax_hightlighter/syntax_hightlighter/syntax.js', function() {
+		SyntaxHighlighter.all();
+	});
+}
+</script>
